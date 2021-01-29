@@ -105,5 +105,9 @@ Taif  景点
 
 .. image:: people.jpg
 
+火山坑
+-----------------------
 
+.. image:: lig.jpg
 
+.. image:: light.jpg
